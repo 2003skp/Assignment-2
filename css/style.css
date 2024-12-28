@@ -1,0 +1,826 @@
+.title {
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+.content {
+    position: absolute;
+    top: 40px;
+    left: 250px;
+}
+
+.btn {
+    color: orangered;
+}
+
+.nav {
+    position: absolute;
+    top: 40px;
+    right: 505px;
+}
+
+.navbar {
+    position: absolute;
+    top: 40px;
+    right: 425px;
+}
+
+.nav-btn {
+    position: absolute;
+    top: 40px;
+    right: 325px;
+}
+
+.nav-box {
+    position: absolute;
+    top: 40px;
+    right: 265px;
+}
+
+.box-title {
+    position: absolute;
+    top: 40px;
+    right: 190px;
+}
+
+.images {
+    display: flex;
+    width: 1170px;
+    height: 500px;
+    margin: auto;
+}
+
+.travel {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 50px;
+    color: white;
+}
+
+.dolor {
+    position: absolute;
+    top: 42%;
+    left: 30%;
+    color: white;
+}
+
+.new {
+    position: absolute;
+    top: 44%;
+    left: 38%;
+    color: white;
+}
+
+.go {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.home {
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.go-home {
+    position: absolute;
+    top: 60%;
+    left: 48%;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.select {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    color: white;
+    background-color: orangered;
+}
+
+.public {
+    position: absolute;
+    top: 95%;
+    right: 12%;
+}
+
+.our {
+    position: absolute;
+    top: 90%;
+    left: 11%;
+    font-size: 35px;
+}
+
+.diam {
+    position: absolute;
+    top: 104%;
+    left: 11%;
+}
+
+.tempus {
+    position: absolute;
+    top: 115%;
+    left: 11%;
+}
+
+.ornare {
+    position: absolute;
+    top: 124%;
+    left: 11%;
+}
+
+.turpis {
+    position: absolute;
+    top: 133%;
+    left: 11%;
+}
+
+.amet {
+    position: absolute;
+    top: 141%;
+    left: 11%;
+}
+
+.read {
+    position: absolute;
+    top: 165%;
+    left: 11%;
+    border: none;
+    border-radius: 5px;
+    font-size: 30px;
+    color: white;
+    background-color: orangered;
+}
+
+.your {
+    position: absolute;
+    top: 175%;
+    left: 39%;
+    font-size: 40px;
+}
+
+.sit {
+    position: absolute;
+    top: 185%;
+    left: 36%;
+}
+
+.nec {
+    position: absolute;
+    top: 189%;
+    left: 45%;
+}
+
+.massa {
+    position: absolute;
+    top: 200%;
+    left: 11%;
+}
+
+.mal {
+    position: absolute;
+    top: 215%;
+    left: 26%;
+    font-size: 30px;
+    color: white;
+}
+
+.nibh {
+    position: absolute;
+    top: 200%;
+    right: 11%;
+}
+
+.sia {
+    position: absolute;
+    top: 215%;
+    right: 26%;
+    font-size: 30px;
+    color: white;
+}
+
+.odio {
+    position: absolute;
+    top: 245%;
+    left: 11%;
+}
+
+.more {
+    position: absolute;
+    top: 258%;
+    left: 20%;
+    font-size: 30px;
+    color: white;
+}
+
+.dic {
+    position: absolute;
+    top: 245%;
+    left: 37.8%;
+}
+
+.north {
+    position: absolute;
+    top: 258%;
+    left: 48%;
+    font-size: 30px;
+    color: white;
+}
+
+.bold {
+    position: absolute;
+    top: 245%;
+    right: 11%;
+}
+
+.sets {
+    position: absolute;
+    top: 258%;
+    right: 16%;
+    font-size: 30px;
+    color: white;
+}
+
+.file {
+    position: absolute;
+    top: 288%;
+    left: 11%;
+}
+
+.desh {
+    position: absolute;
+    top: 302%;
+    left: 23%;
+    font-size: 30px;
+    color: white;
+}
+
+.hero {
+    position: absolute;
+    top: 288%;
+    right: 11%;
+}
+
+.ban {
+    position: absolute;
+    top: 302%;
+    right: 30%;
+    font-size: 30px;
+    color: white;
+}
+
+.choose {
+    position: absolute;
+    top: 333%;
+    left: 40%;
+    font-size: 35px;
+}
+
+.neque {
+    position: absolute;
+    top: 344%;
+    left: 32%;
+}
+
+.lay {
+    position: absolute;
+    top: 348%;
+    left: 40%;
+}
+
+.main-sec {
+    position: absolute;
+    top: 355%;
+    left: 11%;
+    background-color: #faf0e6;
+    width: 573px;
+    height: 284px;
+    border-radius: 10px;
+
+
+}
+
+.hotel {
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+
+.or {
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
+
+.nulla {
+    position: absolute;
+    top: 65%;
+    left: 10%;
+}
+
+.not {
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+
+.ser {
+    position: absolute;
+    top: 355%;
+    right: 11%;
+    background-color: #e6f6fb;
+    width: 573px;
+    height: 284px;
+    border-radius: 10px;
+}
+
+.best {
+    position: absolute;
+    top: 400%;
+    left: 30%;
+    right: 50%;
+    background-color: #fee6e6;
+    width: 573px;
+    height: 284px;
+    border-radius: 10px;
+}
+
+.deal {
+    position: absolute;
+    top: 447%;
+    left: 42%;
+    font-size: 35px;
+}
+
+.mess {
+    position: absolute;
+    top: 458%;
+    left: 35%;
+}
+
+.out {
+    position: absolute;
+    top: 462%;
+    left: 43%;
+}
+
+.lan {
+    position: absolute;
+    top: 472%;
+    left: 11%;
+    right: 11%;
+}
+
+.night {
+    position: absolute;
+    top: 10%;
+    right: 70%;
+}
+
+.max {
+    position: absolute;
+    top: 10%;
+    right: 50%;
+}
+
+.soda {
+    position: absolute;
+    top: 10%;
+    right: 30%;
+}
+
+.tour {
+    position: absolute;
+    top: 25%;
+    right: 55%;
+}
+
+.felis {
+    position: absolute;
+    top: 37%;
+    right: 35%;
+}
+
+.com {
+    position: absolute;
+    top: 45%;
+    right: 17%;
+}
+
+.dig {
+    position: absolute;
+    top: 53%;
+    right: 32%;
+}
+
+.pri {
+    position: absolute;
+    top: 65%;
+    right: 49%;
+    color: orangered;
+}
+
+.do {
+    position: absolute;
+    top: 85%;
+    right: 65%;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+}
+
+.day {
+    position: absolute;
+    top: 479.5%;
+    right: 15%;
+    background-color: #fffffea4;
+    width: 579px;
+    height: 389px;
+    border-radius: 10px;
+
+}
+
+.group {
+    position: absolute;
+    top: 548%;
+    left: 11%;
+    right: 11%;
+}
+
+.nat {
+    position: absolute;
+    top: 556%;
+    left: 15%;
+    background-color: #fffffea4;
+    width: 579px;
+    height: 389px;
+    border-radius: 10px;
+}
+
+.nig {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.mx {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+.sada {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+.tor {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+.fel {
+    position: absolute;
+    top: 33%;
+    left: 10%;
+}
+
+.menu {
+    position: absolute;
+    top: 41%;
+    left: 10%;
+}
+
+.dig-btn {
+    position: absolute;
+    top: 49%;
+    left: 10%;
+}
+
+.pri-box {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    color: orangered;
+}
+
+.code {
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+}
+
+.boll {
+    position: absolute;
+    top: 625%;
+    left: 11%;
+    right: 11%;
+}
+
+.miss {
+    position: absolute;
+    top: 633%;
+    right: 15%;
+    background-color: #fffffea4;
+    width: 579px;
+    height: 389px;
+    border-radius: 10px;
+}
+
+.box {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.web {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+.mala {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+.wel {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+.good {
+    position: absolute;
+    top: 33%;
+    left: 10%;
+}
+
+.app {
+    position: absolute;
+    top: 41%;
+    left: 10%;
+}
+
+.vel {
+    position: absolute;
+    top: 49%;
+    left: 10%;
+}
+
+.price {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    color: rgb(246, 101, 48);
+}
+
+.bk {
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(252, 94, 36);
+}
+
+.see {
+    position: absolute;
+    top: 698%;
+    left: 44%;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(244, 84, 25);
+    border: none;
+    border-radius: 5px;
+}
+
+.pic {
+    position: absolute;
+    top: 713%;
+    right: 11%;
+}
+
+.moun {
+    position: absolute;
+    top: 734%;
+    right: 23%;
+    color: white;
+    font-size: 25px;
+}
+
+.bangla {
+    position: absolute;
+    top: 739%;
+    right: 26%;
+    color: white;
+    font-size: 25px;
+}
+
+.sim {
+    position: absolute;
+    top: 709%;
+    left: 11%;
+    font-size: 40px;
+}
+
+.lost {
+    position: absolute;
+    top: 717%;
+    left: 11%;
+    font-size: 40px;
+}
+
+.none {
+    position: absolute;
+    top: 730%;
+    left: 11%;
+    color: rgba(154, 149, 149, 0.753);
+}
+
+.et {
+    position: absolute;
+    top: 733%;
+    left: 11%;
+    color: rgba(139, 133, 133, 0.753);
+}
+
+.cing {
+    position: absolute;
+    top: 743%;
+    left: 11%;
+}
+
+.vitae {
+    position: absolute;
+    top: 755%;
+    left: 11%;
+}
+
+.cus {
+    position: absolute;
+    top: 768%;
+    left: 11%;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: orangered;
+
+}
+
+.png {
+    position: absolute;
+    top: 783%;
+    right: 11%;
+}
+
+.up {
+    position: absolute;
+    top: 830%;
+    right: 15%;
+    color: white;
+}
+
+.save {
+    position: absolute;
+    top: 834%;
+    right: 15%;
+    color: white;
+}
+
+.top {
+    position: absolute;
+    top: 5%;
+    left: 11%;
+}
+
+.tes {
+    position: absolute;
+    top: 783%;
+    left: 11%;
+    width: 474px;
+    height: 422px;
+    padding: 50px;
+    border: 2px solid orangered;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.dai {
+    position: absolute;
+    top: 20%;
+}
+
+.enter {
+    position: absolute;
+    top: 45%;
+    border: none;
+    width: 393px;
+    height: 52px;
+    left: 40px;
+    text-align: left;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.email {
+    position: absolute;
+    top: 61%;
+    border: none;
+    width: 393px;
+    height: 52px;
+    left: 40px;
+    text-align: left;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.sub {
+    position: absolute;
+    top: 76%;
+    border: none;
+    width: 393px;
+    height: 52px;
+    left: 40px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    background-color: orangered;
+}
+
+.lic {
+    position: absolute;
+    top: 10%;
+    left: 39%;
+}
+
+.pan {
+    position: absolute;
+    top: 8%;
+    left: 44%;
+}
+
+.tra {
+    position: absolute;
+    top: 8%;
+    left: 49%;
+    color: rgba(254, 67, 5, 0.984);
+}
+
+.lorem {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    color: rgba(0, 0, 0, 0.619);
+}
+
+.orci {
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    color: rgba(0, 0, 0, 0.542);
+}
+
+.ass {
+    position: absolute;
+    top: 115%;
+    left: 3%;
+    background-color: #1313188b;
+    width: 249%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.all-1 {
+    position: absolute;
+    top: 65%;
+    left: 43%;
+    color: rgba(0, 0, 0, 0.553);
+    font-size: 15px;
+}
