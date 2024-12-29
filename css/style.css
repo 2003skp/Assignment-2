@@ -75,37 +75,45 @@
 .go {
     position: absolute;
     top: 60%;
-    left: 30%;
+    left: 27%;
+    width: 150px;
+    height: 52px;
     border: none;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .home {
     position: absolute;
     top: 60%;
-    left: 40%;
+    left: 39%;
+    width: 150px;
+    height: 52px;
     border: none;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .go-home {
     position: absolute;
     top: 60%;
-    left: 48%;
+    left: 51%;
+    width: 150px;
+    height: 52px;
     border: none;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .select {
     position: absolute;
     top: 60%;
-    left: 60%;
+    left: 63%;
+    width: 150px;
+    height: 52px;
     border: none;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 15px;
     color: white;
     background-color: orangered;
 }
@@ -157,9 +165,11 @@
     position: absolute;
     top: 165%;
     left: 11%;
+    width: 200px;
+    height: 52px;
     border: none;
     border-radius: 5px;
-    font-size: 30px;
+    font-size: 15px;
     color: white;
     background-color: orangered;
 }
@@ -386,19 +396,19 @@
 .night {
     position: absolute;
     top: 10%;
-    right: 70%;
+    right: 65%;
 }
 
 .max {
     position: absolute;
     top: 10%;
-    right: 50%;
+    right: 45%;
 }
 
 .soda {
     position: absolute;
     top: 10%;
-    right: 30%;
+    right: 25%;
 }
 
 .tour {
@@ -435,8 +445,10 @@
 .do {
     position: absolute;
     top: 85%;
-    right: 65%;
-    font-size: 20px;
+    right: 48%;
+    width: 200px;
+    height: 52px;
+    font-size: 15px;
     border: none;
     border-radius: 5px;
     color: white;
@@ -474,19 +486,19 @@
 .nig {
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 15%;
 }
 
 .mx {
     position: absolute;
     top: 10%;
-    left: 35%;
+    left: 40%;
 }
 
 .sada {
     position: absolute;
     top: 10%;
-    left: 50%;
+    left: 60%;
 }
 
 .tor {
@@ -524,8 +536,10 @@
     position: absolute;
     top: 80%;
     left: 10%;
+    width: 200px;
+    height: 52px;
     border: none;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 5px;
     color: white;
     background-color: orangered;
@@ -551,19 +565,19 @@
 .box {
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 15%;
 }
 
 .web {
     position: absolute;
     top: 10%;
-    left: 35%;
+    left: 40%;
 }
 
 .mala {
     position: absolute;
     top: 10%;
-    left: 50%;
+    left: 58%;
 }
 
 .wel {
@@ -601,6 +615,8 @@
     position: absolute;
     top: 80%;
     left: 10%;
+    width: 200px;
+    height: 52px;
     border: none;
     font-size: 15px;
     border-radius: 5px;
@@ -612,7 +628,9 @@
     position: absolute;
     top: 698%;
     left: 44%;
-    font-size: 20px;
+    width: 200px;
+    height: 52px;
+    font-size: 15px;
     color: white;
     background-color: rgb(244, 84, 25);
     border: none;
@@ -683,9 +701,11 @@
 
 .cus {
     position: absolute;
-    top: 768%;
+    top: 766%;
     left: 11%;
-    font-size: 25px;
+    width: 200px;
+    height: 52px;
+    font-size: 20px;
     border: none;
     border-radius: 5px;
     color: white;
@@ -823,4 +843,64 @@
     left: 43%;
     color: rgba(0, 0, 0, 0.553);
     font-size: 15px;
+}
+
+.combo {
+    position: absolute;
+    top: 358%;
+    left: 13%;
+    width: 105px;
+    height: 105px;
+}
+
+.src {
+    position: absolute;
+    top: 358%;
+    right: 40%;
+    width: 105px;
+    height: 105px;
+}
+
+.rem {
+    position: absolute;
+    top: 402%;
+    left: 31%;
+    width: 115px;
+    height: 115px;
+}
+
+.movei {
+    position: absolute;
+    top: 457.10%;
+    right: 28.5%;
+}
+
+.popular {
+    position: absolute;
+    top: 458%;
+    right: 18%;
+}
+
+.room {
+    position: absolute;
+    top: 533.5%;
+    left: 2%;
+}
+
+.habit {
+    position: absolute;
+    top: 534.5%;
+    left: 12%;
+}
+
+.simple {
+    position: absolute;
+    top: 610.5%;
+    left: 34%;
+}
+
+.landing {
+    position: absolute;
+    top: 611.5%;
+    left: 43.5%;
 }
