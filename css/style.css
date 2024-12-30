@@ -881,6 +881,12 @@
     right: 18%;
 }
 
+.line {
+    position: absolute;
+    top: 458%;
+    right: 11%;
+}
+
 .room {
     position: absolute;
     top: 533.5%;
@@ -893,6 +899,12 @@
     left: 12%;
 }
 
+.satar {
+    position: absolute;
+    top: 534%;
+    left: 19%;
+}
+
 .simple {
     position: absolute;
     top: 610.5%;
@@ -903,4 +915,14 @@
     position: absolute;
     top: 611.5%;
     left: 43.5%;
+}
+
+.des {
+    position: absolute;
+    top: 611%;
+    left: 50%;
+}
+
+.btn-box {
+    background-color: black;
 }
